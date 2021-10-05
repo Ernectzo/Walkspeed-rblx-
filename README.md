@@ -4,7 +4,7 @@ loadstring(game:HttpGet(“https://raw.githubusercontent.com/Ernectzo/Walkspeed-
 
 OR
 
-Put the obfuscated into a local script in Roblox studio
+Put the local script
 
 ALSO
 
