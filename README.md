@@ -1,10 +1,12 @@
-This is a simple walkspeed script for Roblox. Execute it through this loadstring.
+This is a simple walkspeed script for Roblox. For some reason it just refuses to execute through a loadstring 
 
-loadstring(game:HttpGet(“https://raw.githubusercontent.com/Ernectzo/Walkspeed-rblx-/main/Obfuscated.lua”, true))()
+SO
+
+Copy and paste the source code directly into the executor
 
 OR
 
-Put the obfuscated into a local script in Roblox studio
+Put the local script in Roblox studio
 
 ALSO
 
