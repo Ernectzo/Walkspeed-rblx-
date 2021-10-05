@@ -6,7 +6,7 @@ Copy and paste the source code directly into the executor
 
 OR
 
-Put the local script in Roblox studio
+Put the local script into rblx studio
 
 ALSO
 
